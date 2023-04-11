@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="Tambah">Tambah</string>
+    <string name="Refresh">Refresh</string>
+    <string name="Judul">Judul  :</string>
+    <string name="Isi">Isi  :</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Juduljudul">Judul Judul</string>
+    <string name="IsiIsi">Isi Isi</string>
+    <string name="Edit">Edit</string>
+    <string name="Hapus">Hapus</string>
+
+</resources>
